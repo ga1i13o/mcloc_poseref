@@ -1,0 +1,9 @@
+[submodule "gloc/models/third_party/RoMA"]
+	path = gloc/models/third_party/RoMA
+	url = https://github.com/ga1i13o/RoMa
+[submodule "gloc/models/third_party/RoMa"]
+	path = gloc/models/third_party/RoMa
+	url = https://github.com/ga1i13o/RoMa
+[submodule "third_party/gaussian-splatting"]
+	path = third_party/gaussian-splatting
+	url = https://github.com/ga1i13o/gaussian-splatting
